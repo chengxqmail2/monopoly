@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>跳转提示</title>
+<script>
+  // 自动跳转到目标链接
+  window.location.href = "https://mply.io/9fXzuFmFlw4";
+</script>
+</head>
+<body>
+  <h2>请用手机浏览器打开这个链接以跳转到App</h2>
+  <p>如果没有自动跳转，<a href="https://mply.io/9fXzuFmFlw4">请点击这里</a>。</p>
+</body>
+</html>
